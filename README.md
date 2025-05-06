@@ -5,6 +5,8 @@ A organization game that's themed around data management in computers
 
 This project includes detailed documentation:
 
+- [Ideas](docs/RoughIdea.md)
+
 - [Project Plan](docs/ProjectPlan.md)
 - [Requirements Document](docs/Requirements.md)
 - [Design Document](docs/Design.md)
