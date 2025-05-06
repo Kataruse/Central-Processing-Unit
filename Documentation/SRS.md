@@ -57,10 +57,12 @@ Table of Contents
 > This section should provide an overview of the entire document
 
 ### 1.1 Document Purpose
-Describe the purpose of the SRS and its intended audience.
+The purpose of this project is to learn how to use Unity by creating a relatively simple organization game that should be able to be completed throughout the duration of the 2025 summer. The intended audience for this project is video game players who enjoy organization tasks; they'll be able to play the game to fulfill this desire. Another audience is other developers if they want to build upon this project so I’ll need good documentation and comments to assist in this.
 
 ### 1.2 Product Scope
-Identify the product whose software requirements are specified in this document, including the revision or release number. Explain what the product that is covered by this SRS will do, particularly if this SRS describes only part of the system or a single subsystem. Provide a short description of the software being specified and its purpose, including relevant benefits, objectives, and goals. Relate the software to corporate goals or business strategies. If a separate vision and scope document is available, refer to it rather than duplicating its contents here.
+The overall scope of this project is to get familiar with Unity and game creation.
+
+"Identify the product whose software requirements are specified in this document, including the revision or release number. Explain what the product that is covered by this SRS will do, particularly if this SRS describes only part of the system or a single subsystem. Provide a short description of the software being specified and its purpose, including relevant benefits, objectives, and goals. Relate the software to corporate goals or business strategies. If a separate vision and scope document is available, refer to it rather than duplicating its contents here."
 
 ### 1.3 Definitions, Acronyms and Abbreviations
 
