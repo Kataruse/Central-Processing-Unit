@@ -8,6 +8,8 @@ The purpose of this project is to learn how to use Unity by creating a relativel
 
 
 ### 2.1 Overview
+The overall scope of this project is to get familiar with Unity and game creation.
+
 *In this section provide an overview of the development plan. How will development be conducted? What will be developed first? Are there any special considerations that need to be accounted for before, during or after development?*
 
 ### 2.2 Organizational Diagrams
@@ -16,22 +18,8 @@ The purpose of this project is to learn how to use Unity by creating a relativel
 ### 2.3 Details
 *This section, including following sections and subsections, will provide any in depth detailing about the plan that are required in order to outline the development procedure and process. What is the order in which the components will be worked on and why?*
 
-## 3. Team
-
-
-#### Members: 
-*List the team members*
-
-#### Roles:
-*List each team members role to be performed during the development*
-   
-#### Team Assignments:
-
-       | Member name     | Role                   |
-       |-----------------|:----------------------:|
-       |                 |                        |
-       |                 |                        |
-       |             	   |                        |
+#### Developer: 
+Nicholas Crump
 
 ## 4. Estimates and Deadlines
 *List here rough estimates for time and code. These should provide a course outline for the required man power for the project.*
