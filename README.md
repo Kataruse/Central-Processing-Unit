@@ -5,5 +5,6 @@ A organization game that's themed around data management in computers
 
 This project includes detailed documentation:
 
-- [Software Requirements Specification (SRS)](docs/SRS.md)
+- [Project Plan](docs/ProjectPlan.md)
+- [Requirements Document](docs/Requirements.md)
 - [Design Document](docs/Design.md)
