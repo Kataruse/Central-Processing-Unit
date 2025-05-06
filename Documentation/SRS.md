@@ -47,11 +47,11 @@ Table of Contents
 * 5 [Appendixes](#5-appendixes)
 
 ## Revision History
-| Name | Date    | Reason For Changes  | Version   |
-| ---- | ------- | ------------------- | --------- |
-|  Nicholas Crump    |    05/06/20     |                     |           |
-|      |         |                     |           |
-|      |         |                     |           |
+| Name            | Date       | Reason For Changes | Version |
+|-----------------|------------|--------------------|---------|
+| Nicholas Crump  | 05/06/20   | Document Creation  | 0.1     |
+| -               | -          | -                  | -       |
+| -               | -          | -                  | -       |
 
 ## 1. Introduction
 > This section should provide an overview of the entire document
